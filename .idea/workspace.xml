@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="023220ec-6123-4ee3-88ef-5ef32ec9e92c" name="Default Changelist" comment="" />
+    <list default="true" id="023220ec-6123-4ee3-88ef-5ef32ec9e92c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mybaitsplus/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mybaitsplus/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mybaitsplus/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mybaitsplus/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mybaitsplus/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mybaitsplus/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mybaitsplus/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mybaitsplus/DemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mybaitsplus/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mybaitsplus/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mybaitsplus/DemoApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mybaitsplus/DemoApplicationTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,10 +42,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/softwareFORstudy/Android/SDK" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager" selected="JUnit.DemoApplicationTests.contextLoads">
-    <configuration name="DemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WrapperTest.contextLoads4">
+    <configuration name="WrapperTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybaitsPlus-test" />
       <extension name="coverage">
         <pattern>
@@ -45,8 +57,72 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.mybaitsplus" />
-      <option name="MAIN_CLASS_NAME" value="com.mybaitsplus.DemoApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.mybaitsplus.WrapperTest" />
       <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperTest.contextLoads1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybaitsPlus-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mybaitsplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mybaitsplus" />
+      <option name="MAIN_CLASS_NAME" value="com.mybaitsplus.WrapperTest" />
+      <option name="METHOD_NAME" value="contextLoads1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperTest.contextLoads2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybaitsPlus-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mybaitsplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mybaitsplus" />
+      <option name="MAIN_CLASS_NAME" value="com.mybaitsplus.WrapperTest" />
+      <option name="METHOD_NAME" value="contextLoads2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperTest.contextLoads3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybaitsPlus-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mybaitsplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mybaitsplus" />
+      <option name="MAIN_CLASS_NAME" value="com.mybaitsplus.WrapperTest" />
+      <option name="METHOD_NAME" value="contextLoads3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperTest.contextLoads4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybaitsPlus-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mybaitsplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mybaitsplus" />
+      <option name="MAIN_CLASS_NAME" value="com.mybaitsplus.WrapperTest" />
+      <option name="METHOD_NAME" value="contextLoads4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,7 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.WrapperTest.contextLoads4" />
+        <item itemvalue="JUnit.WrapperTest.contextLoads3" />
+        <item itemvalue="JUnit.WrapperTest.contextLoads2" />
+        <item itemvalue="JUnit.WrapperTest.contextLoads1" />
+        <item itemvalue="JUnit.WrapperTest.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +156,10 @@
       <option name="presentableId" value="Default" />
       <updated>1600670197314</updated>
       <workItem from="1600670203367" duration="3303000" />
+      <workItem from="1600673639950" duration="30000" />
+      <workItem from="1600844019700" duration="4517000" />
+      <workItem from="1600928657858" duration="6572000" />
+      <workItem from="1601012214721" duration="2338000" />
     </task>
     <servers />
   </component>
@@ -87,29 +171,37 @@
       <screen x="-1920" y="0" width="1920" height="1049" />
     </state>
     <state x="-1368" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600671992208" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1600673511936">
+    <state x="-1155" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1600848073533">
       <screen x="-1920" y="0" width="1920" height="1049" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600673511936" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1600673511935">
+    <state x="-1155" y="230" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600848073533" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1601014263757">
       <screen x="-1920" y="0" width="1920" height="1049" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600673511935" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1600673511935">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1601014263757" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1601014263756">
       <screen x="-1920" y="0" width="1920" height="1049" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600673511935" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1600673511936">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1601014263756" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1601014263754">
       <screen x="-1920" y="0" width="1920" height="1049" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600673511936" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1601014263754" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1601014263757">
+      <screen x="-1920" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1601014263757" />
     <state width="224" height="477" key="HiddenNamespacesPopup" timestamp="1600671526920">
       <screen x="-1920" y="0" width="1920" height="1049" />
     </state>
     <state width="224" height="477" key="HiddenNamespacesPopup/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600671526920" />
-    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1600672596094">
+    <state x="-1480" y="99" key="SettingsEditor" timestamp="1600934039423">
       <screen x="-1920" y="0" width="1920" height="1049" />
     </state>
-    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600672596094" />
+    <state x="-1480" y="99" key="SettingsEditor/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1600934039423" />
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1601013548238">
+      <screen x="-1920" y="0" width="1920" height="1049" />
+    </state>
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1049/0.0.1920.1049@-1920.0.1920.1049" timestamp="1601013548238" />
   </component>
 </project>
